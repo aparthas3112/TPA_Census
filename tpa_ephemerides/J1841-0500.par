@@ -1,0 +1,17 @@
+PSRJ            J1841-0500                    
+RAJ             18:41:18.222                  1.000e-01 
+DECJ            -05:00:18.26                  1.000e+00 
+DM              530.0                         1.000e-01 
+PEPOCH          55800.00000                   1.000e-04 
+F0              1.0953931968                  6.000e-10 
+F1              -4.21E-14                     8.000e-16 
+START           55784.069                     
+FINISH          55828.052                     
+CLK             UNCORR                        
+EPHEM           DE200                         
+TZRMJD          55801.90250970662506          
+TZRFRQ          1999.219                      
+TZRSITE         1                             
+RM              -2993                         5.000e+01 
+EPHVER          2                             
+UNITS           TDB                           

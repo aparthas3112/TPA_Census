@@ -1,0 +1,31 @@
+PSRJ           J1551-5310
+RAJ            15:51:41.25                  0.06000000000000000000   
+DECJ           -53:10:59.6                  0.80000000000000000001   
+F0             2.2050379171609472354     1  0.00000282442338623981   
+F1             -9.4923099999999999999e-13    3.9999999999999999999e-18
+PEPOCH         58831                       
+POSEPOCH       58831                       
+DMEPOCH        58831                       
+DM             491.60000000000000001        0.69999999999999999999   
+START          58831.356426072256166       
+FINISH         58831.360971703837446       
+TRACK          1                           
+TZRMJD         58831.359155513243046       
+TZRFRQ         1290.2200000000000273    
+TZRSITE        meerkat   
+TRES           330.494      
+EPHVER         5                           
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      TEMPO
+NE_SW          4.000
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           6
+CHI2R          0.4256 4
+## AUTO GENERATED MeerTIME TPA 2020-06-12 11:47:44.003893

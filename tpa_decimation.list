@@ -1,2 +1,2 @@
-all, -F -T, -T, -F, -f 116 -T, -f 29 -T, -T -p
-all, -F -T, -T, -F, -f 116 -T, -f 29 -T, -T -p
+all, -F -T -S, -T -S, -F -S, -f 116 -T -S, -f 29 -T -S, -T -p -S
+all, -F -T -S, -T -S, -F -S, -f 116 -T -S, -f 29 -T -S, -T -p -S

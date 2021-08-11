@@ -1,0 +1,13 @@
+PSRJ 	 J1234-3630
+RAJ  	  12:34:12.00  	  2.000e-2
+DECJ  	  -36:30:41.1  	  1.000e-1
+F0  	  1.75672140249  	  3.000e-11
+DM  	  58.8  	  0.4000
+PEPOCH  	  57602  	  
+F1  	  -2.6730000000000000e-15  	  1.000e-17
+CLK  	  TT(BIPM)  	  
+EPHEM  	  DE430  	  
+EPHVER  	  5  	  
+UNITS  	  TDB  	  
+T2CMETHOD  	  TEMPO  	  
+CORRECT_TROPOSPHERE  	  N  	  

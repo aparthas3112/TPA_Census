@@ -1,0 +1,18 @@
+PSRJ            J1810-5338                    
+RAJ             18:10:44.43                   6.000e-02 
+DECJ            -53:38:07.7                   1.200e+00 
+DM              45                            2.000e+00 
+PEPOCH          43558.1388                    
+F0              3.8306937433202880            1.100e-09 
+F1              -5.61999999999E-15            6.000e-17 
+POSEPOCH        43558.1388                    
+DMEPOCH         43558.1388                    
+CLK             TT(BIPM2012)                  
+EPHEM           DE421                         
+TZRMJD          57361.26                      
+TZRFRQ          834.734                       
+TZRSITE         MO                            
+RM              58                            3.000e+00 
+NTOA            3                             
+EPHVER          2                             
+UNITS           TDB                           

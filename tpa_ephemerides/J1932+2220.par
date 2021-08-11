@@ -1,0 +1,32 @@
+PSRJ           J1932+2220
+ELONG          299.9626500000000000056843419    1.6855503033949262562e-4930
+ELAT           43.4141400000000000011790569   
+F0             6.9200653544969322065     1  0.00000028153616053440   
+F1             -2.7297056364799999999e-12    1e-17                    
+F2             4.39e-23                     7.9999999999999999999e-25
+PEPOCH         58980                       
+POSEPOCH       58980                       
+DMEPOCH        58980                       
+DM             219.2                        0.50000000000000000000   
+START          58980.066939295561092       
+FINISH         58980.075644271964634       
+TRACK          1                           
+TZRMJD         58980.072172311851276       
+TZRFRQ         1285.4449999999999363    
+TZRSITE        meerkat   
+TRES           20.865       
+EPHVER         2                           
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
+T2CMETHOD      TEMPO
+NE_SW          9.961
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           6
+CHI2R          77.8699 4
+## AUTO GENERATED MeerTIME TPA 2020-06-12 13:36:14.330111
