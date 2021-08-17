@@ -1,34 +1,30 @@
 PSRJ           J0624-0424
-RAJ             06:24:20.0284898            5.8836805004461656335e-4932
-DECJ           -04:24:50.45035             
-F0             0.96239250793853533378    1  0.00000007806658485647   
-F1             -7.692123169888e-16          1.1e-20                  
+ELONG          96.8545379999999999920401450   
+ELAT           -27.7086599999999999999894529   
+F0             0.96239307045178867098    0  0.00000000000368530204   
+F1             -7.6915600000000000001e-16    1.1e-20                  
 F2             -7.3000000000000000002e-29    3e-28                    
-PEPOCH         58805                       
-POSEPOCH       58805                       
-DMEPOCH        58805                       
+PEPOCH         49876                       
+POSEPOCH       49876                       
+DMEPOCH        49876                       
 DM             70.834999999999999999        0.01100000000000000000   
-PMRA           0.29965971937490459999      
-PMDEC          -0.014284697552043507       
-START          58805.912545943255058       
-FINISH         58805.923128519946328       
-TRACK          1                           
-TZRMJD         58805.916790997780073       
-TZRFRQ         1279.2519999999999527    
+START          58805.917753050307475       
+FINISH         59264.734904385251998       
+TZRMJD         59041.418959673633722       
+TZRFRQ         809.32699999999999818    
 TZRSITE        meerkat   
-TRES           51.731       
-EPHVER         5                           
+TRES           144.357      
+EPHVER         2                           
 CLK            TT(TAI)
 MODE 1
 UNITS          TDB
-TIMEEPH        IF99
-DILATEFREQ     Y
-PLANET_SHAPIRO Y
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
 T2CMETHOD      TEMPO
-NE_SW          4.000
+NE_SW          9.961
 CORRECT_TROPOSPHERE  N
 EPHEM          DE405
 NITS           1
-NTOA           6
-CHI2R          2.0921 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 11:03:15.326911
+NTOA           12
+CHI2R          13.3663 10

@@ -1,34 +1,31 @@
 PSRJ           J1703-3241
-RAJ             17:03:22.4812415           
-DECJ           -32:41:47.92641             
-F0             0.82522835027660133514    1  0.00000023977347394425   
-F1             -4.4813097632000000002e-16    1.2e-20                  
-F2             1.6e-27                      3e-28                    
-PEPOCH         58787                       
-POSEPOCH       58787                       
-DMEPOCH        58787                       
-DM             110.306                      0.01400000000000000000   
-PMRA           -30.848521021567226001      
-PMDEC          3.0608415153229650001       
-START          58787.660387801769726       
-FINISH         58787.672674711555818       
-TRACK          1                           
-TZRMJD         58787.665409184329501       
-TZRFRQ         1273.6440000000000055    
+ELONG          257.9427439999999999986624033   
+ELAT           -9.8480099999999999990304977   
+F0             0.82522883363100888544    
+F1             -4.49345e-16             
+F2             1.6e-27                 
+PEPOCH         50005                       
+POSEPOCH       50005                       
+DMEPOCH        50005                       
+PMELONG        -31                          14.00000000000000000000  
+START          58787.66646114523293        
+FINISH         59337.950962835534558       
+TZRMJD         59055.943846790886717       
+TZRFRQ         822.86500000000000909    
 TZRSITE        meerkat   
-TRES           217.989      
-EPHVER         5                           
+TRES           778.310      
+EPHVER         2                           
 CLK            TT(TAI)
 MODE 1
 UNITS          TDB
-TIMEEPH        IF99
-DILATEFREQ     Y
-PLANET_SHAPIRO Y
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
 T2CMETHOD      TEMPO
-NE_SW          4.000
+NE_SW          9.961
 CORRECT_TROPOSPHERE  N
 EPHEM          DE405
 NITS           1
-NTOA           6
-CHI2R          10.7808 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 12:04:39.192013
+NTOA           17
+CHI2R          167.1666 15
+DM 110.088

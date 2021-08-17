@@ -1,22 +1,32 @@
-PSRJ            J0820-1350               
-RAJ             08:20:26.3817            1.000e-04 
-DECJ            -13:50:55.859            2.000e-03 
-DM              40.938                   3.000e-03 
-PEPOCH          48904                    
-F0              0.8076699367037190       5.000e-13 
-F1              -1.38484978296E-15       4.000e-21 
-PMRA            21.6399999               9.000e-02 
-PMDEC           -39.439999               5.000e-02 
-POSEPOCH        52275                    
-DMEPOCH         48904                    
-F2              1.8e-28                  5.000e-29 
-CLK             TT(BIPM2012)             
-EPHEM           DE421                    
-TZRMJD          57288.019                
-TZRFRQ          834.66                   
-TZRSITE         MO                       
-RM              -1.2                     4.000e-01 
-PX              0.50999999               4.000e-02 
-NTOA            13                       
-EPHVER          2                        
-UNITS           TDB                      
+PSRJ           J0820-1350
+RAJ            08:20:26.3817                0.00010000000000000000   
+DECJ           -13:50:55.859                0.00200000000000000000   
+F0             0.80766992846493407688    
+F1             -1.373272e-15             
+PEPOCH         48904                       
+POSEPOCH       52275                       
+DMEPOCH        48904                       
+DM             40.938                       0.00300000000000000000   
+PMRA           21.639999999999999999        0.09000000000000000000   
+PMDEC          -39.439999999999999999       0.05000000000000000000   
+PX             0.50999999999999999999       0.04000000000000000000   
+START          58595.644092779957667       
+FINISH         59264.754823943461194       
+TZRMJD         58958.717523883113117       
+TZRFRQ         1297.9320000000000164    
+TZRSITE        meerkat   
+TRES           124.399      
+EPHVER         2                           
+NE_SW          9.9610000000000000001       
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
+T2CMETHOD      TEMPO
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           14
+CHI2R          252.2202 12

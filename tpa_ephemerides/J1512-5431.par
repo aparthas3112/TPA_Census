@@ -1,11 +1,29 @@
-PSRJ 	 J1512-5431
-RAJ  	  15:12:05.7  	  0.2000
-DECJ  	  -54:31:19  	  3.0000
-F0  	  0.49006837858  	  8.000e-11
-DM  	  219.000000  	  6.0000
-PEPOCH  	  51709.00001000000000000000  	  
-F1  	  -4.6100000000000000e-16  	  1.500e-17
-EPHVER  	  5  	  
-UNITS  	  TDB  	  
-T2CMETHOD  	  TEMPO  	  
-CORRECT_TROPOSPHERE  	  N  	  
+PSRJ           J1512-5431
+RAJ            15:12:05.7                   0.20000000000000000000   
+DECJ           -54:31:19                    3.00000000000000000000   
+F0             0.49006837240633676245    
+F1             -4.61e-16                
+PEPOCH         51709.00001                 
+POSEPOCH       51709.00001                 
+DMEPOCH        51709.00001                 
+DM             219                          6.00000000000000000000   
+START          58678.646358325515386       
+FINISH         59268.111753200655492       
+TZRMJD         58966.873320507481761       
+TZRFRQ         1278.6489999999998872    
+TZRSITE        meerkat   
+TRES           1802.287     
+EPHVER         2                           
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
+T2CMETHOD      TEMPO
+NE_SW          9.961
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           16
+CHI2R          95.0927 14

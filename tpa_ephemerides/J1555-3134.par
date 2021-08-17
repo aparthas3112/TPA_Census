@@ -1,34 +1,29 @@
 PSRJ           J1555-3134
-RAJ             15:55:17.9351971            0.00300000000000000000   
-DECJ           -31:34:20.05393              0.13000000000000000000   
-F0             1.9300918609096926067     1  0.00000093302677637229   
-F1             -2.3198401664000000001e-16    3e-20                    
-F2             -2e-28                       5.1999999999999999998e-28
-PEPOCH         58787                       
-POSEPOCH       58787                       
-DMEPOCH        58787                       
+RAJ            15:55:17.952                 0.00300000000000000000   
+DECJ           -31:34:20.10                 0.13000000000000000000   
+F0             1.9300928858854056034     
+F1             -2.3183e-16              
+PEPOCH         49874                       
+POSEPOCH       49874                       
+DMEPOCH        49874                       
 DM             73.044999999999999998        0.00700000000000000000   
-PMRA           -8.7997966924141119999      
-PMDEC          1.887744201998158           
-START          58787.27462829529734        
-FINISH         58787.27997151449237        
-TRACK          1                           
-TZRMJD         58787.276847141146657       
-TZRFRQ         1288.1369999999999436    
+START          58787.277182963150427       
+FINISH         59268.185682256830816       
+TZRMJD         59019.859019345110738       
+TZRFRQ         1284.8510000000001128    
 TZRSITE        meerkat   
-TRES           164.957      
-EPHVER         5                           
+TRES           80.985       
+EPHVER         2                           
+NE_SW          9.9610000000000000001       
 CLK            TT(TAI)
 MODE 1
 UNITS          TDB
-TIMEEPH        IF99
-DILATEFREQ     Y
-PLANET_SHAPIRO Y
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
 T2CMETHOD      TEMPO
-NE_SW          4.000
 CORRECT_TROPOSPHERE  N
 EPHEM          DE405
 NITS           1
-NTOA           6
-CHI2R          29.9225 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 11:48:10.679763
+NTOA           13
+CHI2R          5.7094 11

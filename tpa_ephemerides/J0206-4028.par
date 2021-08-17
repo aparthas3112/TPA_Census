@@ -1,15 +1,30 @@
-PSRJ 	 J0206-4028
-RAJ  	  02:06:01.268  	  9.000e-3
-DECJ  	  -40:28:04.33  	  0.1400
-F0  	  1.585916702289  	  1.600e-11
-DM  	  12.9  	  1.2000
-PEPOCH  	  46800.00000000000000000000  	  
-F1  	  -3.0166000000000000e-15  	  1.300e-18
-PMRA  	  9  	  4.0000
-PMDEC  	  26  	  5.0000
-POSEPOCH  	  46902  	  
-RM  	  -4.0000000000000000e+00  	  5.0000
-EPHVER  	  5  	  
-UNITS  	  TDB  	  
-T2CMETHOD  	  TEMPO  	  
-CORRECT_TROPOSPHERE  	  N  	  
+PSRJ           J0206-4028
+RAJ            02:06:01.293                 0.00500000000000000000   
+DECJ           -40:28:03.62                 0.07000000000000000000   
+F0             1.5859138639293355448     0  0.00000000000366991346   
+F1             -3.0095e-15                  7.0000000000000000002e-19
+PEPOCH         57600                       
+POSEPOCH       57600                       
+DMEPOCH        57600                       
+PMRA           9                            4.00000000000000000000   
+PMDEC          26                           5.00000000000000000000   
+START          58500.22066525048535        
+FINISH         59034.905710905637026       
+TZRMJD         58761.654487372110207       
+TZRFRQ         1411.7810059999999339    
+TZRSITE        pks   
+TRES           116.884      
+EPHVER         5                           
+CLK            TT(TAI)
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+NE_SW          4.000
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE405
+NITS           1
+NTOA           15
+CHI2R          0.0000 13
+DM 12.9951273809766

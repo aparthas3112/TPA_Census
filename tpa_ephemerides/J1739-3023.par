@@ -1,13 +1,29 @@
-PSRJ            J1739-3023                    
-RAJ             17:39:39.79                   4.000e-02 
-DECJ            -30:23:12.92                  1.300e-01 
-DM              170.5                         1.000e-01 
-PEPOCH          55351                         
-F0              8.7434194934                  1.300e-09 
-F1              -87.1129E-14                  2.000e-18 
-POSEPOCH        55351                         
-DMEPOCH         55000                         
-F2              4.5E-24                       1.800e-24 
-RM              -74                           1.800e+01 
-EPHVER          2                             
-UNITS           TDB                           
+PSRJ           J1739-3023
+RAJ            17:39:39.79                  0.04000000000000000000   
+DECJ           -30:23:12.92                 0.13000000000000000000   
+F0             8.7434197482391438965     1  0.00000000804957101192   
+F1             -8.7212178546731190021e-13 1  2.7475757640631462862e-17
+F2             4.5e-24                      1.8000000000000000001e-24
+PEPOCH         55351                       
+POSEPOCH       55351                       
+DMEPOCH        55000                       
+DM             170.5                        0.10000000000000000000   
+START          58441.323085843658639       
+FINISH         59035.674736536608322       
+TZRMJD         58744.472528538098189       
+TZRFRQ         1407.6459959999999683    
+TZRSITE        pks   
+TRES           1437.103     
+EPHVER         2                           
+CLK            TT(TAI)
+UNITS          TDB
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
+T2CMETHOD      TEMPO
+NE_SW          9.961
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           19
+CHI2R          0.0000 16

@@ -1,12 +1,29 @@
-PSRJ 	 J1240-4124
-RAJ  	  12:40:17.61  	  4.000e-2
-DECJ  	  -41:24:51.7  	  0.7000
-F0  	  1.9522019243  	  5.000e-10
-DM  	  44.1  	  1.2000
-PEPOCH  	  43564.84430000000000000000  	  
-F1  	  -6.6300000000000000e-15  	  3.000e-17
-RM  	  17  	  10.0000
-EPHVER  	  5  	  
-UNITS  	  TDB  	  
-T2CMETHOD  	  TEMPO  	  
-CORRECT_TROPOSPHERE  	  N  	  
+PSRJ           J1240-4124
+RAJ            12:40:17.61                  0.04000000000000000000   
+DECJ           -41:24:51.7                  0.69999999999999999999   
+F0             1.9522019159274880615     
+F1             -6.63000000e-15
+PEPOCH         43564.8443                  
+POSEPOCH       43564.8443                  
+DMEPOCH        43564.8443                  
+START          58850.999790193600703       
+FINISH         59337.907345380721178       
+TZRMJD         59097.376583222784809       
+TZRFRQ         1289.4100000000000819    
+TZRSITE        meerkat   
+TRES           1862.337     
+EPHVER         2                           
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
+T2CMETHOD      TEMPO
+NE_SW          9.961
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           15
+CHI2R          16497.5032 13
+DM 43.226

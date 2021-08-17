@@ -1,32 +1,30 @@
 PSRJ           J1048-5832
-RAJ            10:48:12.2                   0.10000000000000000000   
-DECJ           -58:32:05.8                  0.80000000000000000001   
-F0             8.0816240067076078116     1  0.00000994644935353545   
-F1             -6.569543024e-12             7.0000000000000000001e-17
-F2             -3.9e-22                     3.9999999999999999999e-22
-PEPOCH         58958                       
-POSEPOCH       58958                       
-DMEPOCH        58958                       
+RAJ            10:48:13.05                  0.02000000000000000000   
+DECJ           -58:32:06.2                  0.10000000000000000000   
+F0             8.0824293474288311911     1  0.00000004329884481065   
+F1             -6.2615321820159339333e-12 1  8.536974300811060078e-16 
+F2             -4.3916096856410079507e-24 1  8.295228830606871512e-24 
+PEPOCH         57600                       
+POSEPOCH       57600                       
+DMEPOCH        55000                       
 DM             128.67900000000000001        0.00400000000000000000   
-START          58958.771634666936247       
-FINISH         58958.77299656175628        
-TRACK          1                           
-TZRMJD         58958.772450919268888       
-TZRFRQ         1289.9380000000001019    
-TZRSITE        meerkat   
-TRES           60.117       
+START          58469.635652996785552       
+FINISH         59111.894904288202785       
+TZRMJD         58789.77816460825462        
+TZRFRQ         2680                     
+TZRSITE        pks   
+TRES           7397.221     
 EPHVER         5                           
+NE_SW          4                           
 CLK            TT(TAI)
-MODE 1
-UNITS          TDB
+UNITS          TCB
 TIMEEPH        IF99
 DILATEFREQ     Y
 PLANET_SHAPIRO Y
-T2CMETHOD      TEMPO
+T2CMETHOD      IAU2000B
 NE_SW          4.000
-CORRECT_TROPOSPHERE  N
+CORRECT_TROPOSPHERE  Y
 EPHEM          DE405
 NITS           1
-NTOA           6
-CHI2R          3.5671 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 11:17:13.958462
+NTOA           149
+CHI2R          0.0000 145

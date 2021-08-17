@@ -1,9 +1,29 @@
-PSRJ            J1530-6343                    
-RAJ             15:30:47.608                  2.000e-02 
-DECJ            -63:43:13.6                   3.000e-01 
-DM              206                           
-PEPOCH          56093                         
-F0              1.098515307136                1.400e-11 
-F1              -9.96E-16                     9.000e-18 
-RM              195                           7.000e+00 
-UNITS           TCB                           
+PSRJ           J1530-6343
+RAJ            15:30:47.608                 0.02000000000000000000   
+DECJ           -63:43:13.6                  0.30000000000000000001   
+F0             1.0985153068579626521     
+F1             -9.96e-16                
+PEPOCH         56093                       
+POSEPOCH       56093                       
+DMEPOCH        56093                       
+START          58901.261760984544878       
+FINISH         59268.143611320737374       
+TZRMJD         59076.576937026799417       
+TZRFRQ         1273.5309999999999491    
+TZRSITE        meerkat   
+TRES           280.557      
+EPHVER         5                           
+CLK            TT(TAI)
+MODE 1
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+NE_SW          4.000
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE405
+NITS           1
+NTOA           13
+CHI2R          93.5580 11
+DM 206.435032972053

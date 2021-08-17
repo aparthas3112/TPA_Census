@@ -1,11 +1,9 @@
-PSRJ 	 J0418-4154
-RAJ  	  04:18:04.2  	  0.2000
-DECJ  	  -41:54:10.8  	  0.6000
-F0  	  1.3207965590  	  1.000e-10
-DM  	  24.54  	  8.000e-2
-PEPOCH  	  57055  	  
-F1  	  -1.7000000000000000e-15  	  1.000e-16
-EPHVER  	  5  	  
-UNITS  	  TDB  	  
-T2CMETHOD  	  TEMPO  	  
-CORRECT_TROPOSPHERE  	  N  	  
+PSRJ            J0418-4154                    
+RAJ             04:18:03.7748                 4.000e-04 
+DECJ            -41:54:14.42                  6.000e-02 
+DM              24.325                        9.000e-03 
+PEPOCH          57600                         
+F0              1.32079643042                 2.000e-11 
+F1              -2.30176E-15                  6.000e-20 
+POSEPOCH        57600                         
+UNITS           TCB                           
