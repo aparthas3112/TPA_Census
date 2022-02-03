@@ -1,1 +1,13 @@
-WARNING: PSR J0837-2454 not in catalogue
+PSRJ           J0837-2454
+RAJ            08:37:57.73
+DECJ           -24:54:30
+F0             1.5887886791923266904
+F1             -8.80963303862182099e-13
+PEPOCH         55588.628
+POSEPOCH       55588.628
+DMEPOCH        55588.628
+DM             143.20000000000000001
+EPHVER         5
+CLK            TT(TAI)
+UNITS          TCB
+EPHEM          DE405
