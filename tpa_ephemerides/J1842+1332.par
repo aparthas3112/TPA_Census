@@ -1,31 +1,28 @@
 PSRJ           J1842+1332
-RAJ            18:42:29.96                  0.06000000000000000000   
-DECJ           +13:32:01.5                  0.90000000000000000003   
-F0             2.1204451297510208455     1  0.00000985616344556388   
-F1             -1.03e-15                    4e-17                    
-PEPOCH         59004                       
-POSEPOCH       59004                       
-DMEPOCH        59004                       
-DM             102.5                        0.69999999999999999999   
-START          59004.917134354768038       
-FINISH         59004.919666970959728       
-TRACK          1                           
-TZRMJD         59004.91823690673889        
-TZRFRQ         1279.2080000000000837    
+RAJ            18:42:29.9600000             0.06000000000000000000   
+DECJ           +13:32:01.50000              0.90000000000000000003   
+F0             2.1204249170182057401     1  0.00000000430035138168   
+F1             -9.7101541137895832443e-16 1  6.6646032633014504871e-18
+PEPOCH         51650.000131887207711       
+POSEPOCH       51650.000131887207711       
+DMEPOCH        51650                       
+DM             102.50000476784843358        0.70000003256091613180   
+START          58774.58729034965857        
+FINISH         59428.768374473163238       
+TZRMJD         59111.674850719769832       
+TZRFRQ         1280.6204800000000432    
 TZRSITE        meerkat   
-TRES           608.241      
+TRES           1636.945     
 EPHVER         5                           
+NE_SW          9.9610000000000000001       
 CLK            TT(TAI)
-MODE 1
-UNITS          TDB
+UNITS          TCB
 TIMEEPH        IF99
 DILATEFREQ     Y
 PLANET_SHAPIRO Y
-T2CMETHOD      TEMPO
-NE_SW          4.000
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           6
-CHI2R          0.3867 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 12:41:58.741908
+NTOA           20
+CHI2R          -0.0003 17

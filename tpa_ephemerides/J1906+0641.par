@@ -1,16 +1,31 @@
-PSRJ 	 J1906+0641
-RAJ  	  19:06:35.244  	  
-DECJ  	  +06:41:02.90  	  
-F0  	  3.741464667847  	  6.000e-12
-DM  	  472.8  	  0.3000
-PEPOCH  	  49613.00000000000000000000  	  
-F1  	  -2.9895300000000000e-14  	  5.000e-20
-POSEPOCH  	  49613.00000000000000000000  	  
-F2  	  -6.8000000000000000e-27  	  8.000e-28
-RM  	  371.50000000000000000000  	  2.3000
-EPHVER  	  5  	  
-UNITS  	  TDB  	  
-PMRA  	  0  	  
-PMDEC  	  0  	  
-T2CMETHOD  	  TEMPO  	  
-CORRECT_TROPOSPHERE  	  N  	  
+PSRJ           J1906+0641
+RAJ            19:06:35.2440000            
+DECJ           +06:41:02.90000             
+F0             3.7414646074446183761     1  0.00000000113893611837   
+F1             -2.9887416293451762158e-14 1  1.4013018462747975145e-18
+F2             -6.7999996836939722899e-27    7.999999627875261518e-28 
+PEPOCH         49613.000100303119552       
+POSEPOCH       49613.000100303119552       
+DMEPOCH        49613                       
+DM             472.80002199257306728        0.30000001395467834221   
+PMRA           0                           
+PMDEC          0                           
+START          58774.644676968267195       
+FINISH         59284.24086161395687        
+TZRMJD         59033.868741622271923       
+TZRFRQ         1281.1617089999999735    
+TZRSITE        meerkat   
+TRES           112.262      
+EPHVER         5                           
+NE_SW          4                           
+CLK            TT(TAI)
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
+NITS           1
+NTOA           14
+CHI2R          -0.0001 11

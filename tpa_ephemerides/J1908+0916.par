@@ -1,31 +1,28 @@
 PSRJ           J1908+0916
-RAJ            19:08:58.76                  0.06000000000000000000   
-DECJ           +09:16:14                    1.00000000000000000000   
-F0             1.2044248322448766847     1  0.00000145421424546846   
-F1             -1.4e-16                     3.0000000000000000001e-17
-PEPOCH         58956                       
-POSEPOCH       58956                       
-DMEPOCH        58956                       
-DM             249.8                        0.50000000000000000000   
-START          58956.051930667416311       
-FINISH         58956.060261354872623       
-TRACK          1                           
-TZRMJD         58956.055264859392114       
-TZRFRQ         1288.7660000000000764    
+RAJ            19:08:58.7600000             0.06000000000000000000   
+DECJ           +09:16:14.00000              1.00000000000000000000   
+F0             1.2044275615587916855     1  0.00000000659176323177   
+F1             -7.8334459533375732837e-17 1  4.6825874082700307076e-18
+PEPOCH         42832.499995170125072       
+POSEPOCH       42832.499995170125072       
+DMEPOCH        42832.5                     
+DM             249.8000116195954996         0.50000002325779723699   
+START          58956.056033578257981       
+FINISH         59284.263179285484572       
+TZRMJD         59117.679488641497212       
+TZRFRQ         1279.1479010000000471    
 TZRSITE        meerkat   
-TRES           529.528      
-EPHVER         2                           
+TRES           380.769      
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
 CLK            TT(TAI)
-MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-NE_SW          9.961
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           6
-CHI2R          5.5891 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 13:11:09.108237
+NTOA           10
+CHI2R          -0.0007 7
