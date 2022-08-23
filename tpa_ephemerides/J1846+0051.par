@@ -1,31 +1,28 @@
 PSRJ           J1846+0051
-RAJ            18:46:43.821                 0.02000000000000000000   
-DECJ           +00:51:39.0                  0.69999999999999999999   
-F0             2.3021341378234241022     1  0.00000145419984429972   
-F1             -5.9498e-14                  1.3e-17                  
-PEPOCH         59004                       
-POSEPOCH       59004                       
-DMEPOCH        59004                       
-DM             140                          3.00000000000000000000   
-START          59004.884019106948802       
-FINISH         59004.892590649930185       
-TRACK          1                           
-TZRMJD         59004.887543245421885       
-TZRFRQ         1274.2950000000000728    
+RAJ            18:46:43.8210000             0.02000000000000000000   
+DECJ           +00:51:39.00000              0.69999999999999999999   
+F0             2.3021694935223196523     1  0.00000000577441525975   
+F1             -5.9473087146266253241e-14 1  1.0189108494023891041e-17
+PEPOCH         52554.000145903906628       
+POSEPOCH       52554.000145903906628       
+DMEPOCH        52554                       
+DM             140.00000651218322635        3.00000013954678342205   
+START          58951.175931925886925       
+FINISH         59275.230492641619126       
+TZRMJD         59111.708054804879204       
+TZRFRQ         1276.721072999999933     
 TZRSITE        meerkat   
-TRES           325.570      
+TRES           452.103      
 EPHVER         5                           
+NE_SW          9.9610000000000000001       
 CLK            TT(TAI)
-MODE 1
-UNITS          TDB
+UNITS          TCB
 TIMEEPH        IF99
 DILATEFREQ     Y
 PLANET_SHAPIRO Y
-T2CMETHOD      TEMPO
-NE_SW          4.000
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           6
-CHI2R          1.6280 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 12:44:31.266903
+NTOA           12
+CHI2R          -0.0003 9
