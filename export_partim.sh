@@ -48,7 +48,8 @@ for p in $1/*.par ; do
     fi
 
     #Flags to add to parfile:
-    grep -ve 'JUMP\|CLK\|EPHEM' ${parname}  | grep -ve '^F2 ' > $outroot/${par}${outstem}.par
+    grep -ve 'JUMP\|CLK\|EPHEM\|MODE' ${parname}  | grep -ve '^F2 ' > $outroot/${par}${outstem}.par
+    echo 'MODE      1' >> $outroot/${par}${outstem}.par
     echo 'F2        0' >> $outroot/${par}${outstem}.par
     echo 'TRACK    -2' >> $outroot/${par}${outstem}.par
     echo 'EPHEM DE440' >> $outroot/${par}${outstem}.par
@@ -59,7 +60,7 @@ for p in $1/*.par ; do
     echo "SATJUMP -MJD_58550.14921B_1K -1 -1.196e-06 0" >> $outroot/${par}${outstem}.par
     echo "SATJUMP -MJD_58557.14847_1K -1 -4.785e-06 0" >> $outroot/${par}${outstem}.par
     echo "SATJUMP -MJD_58575.9591_1K -1 5.981308411e-07 0" >> $outroot/${par}${outstem}.par
-    tempo2 -f $outroot/${par}${outstem}.par $outroot/${timhead}${outstem}.tim -newpar -nofit -fit f0 -fit f1
+    tempo2 -f $outroot/${par}${outstem}.par $outroot/${timhead}${outstem}.tim -newpar -nofit -fit f0 -fit f1 -epoch 59400
     mv new.par $outroot/${par}${outstem}.par
     echo $outroot/${par}${outstem}
 done
