@@ -1,10 +1,29 @@
-PSRJ            J1913+1000                    
-RAJ             19:13:03.59                   5.000e-02 
-DECJ            +10:00:02.4                   1.400e+00 
-DM              422                           3.000e+00 
-PEPOCH          52187.00000                   
-F0              1.19453163035                 6.000e-11 
-F1              -2.3882E-14                   8.000e-18 
-RM              497                           1.800e+01 
-EPHVER          2                             
-UNITS           TDB                           
+PSRJ           J1913+1000
+RAJ            19:13:03.59                  0.05000000000000000000   
+DECJ           +10:00:02.4                  1.39999999999999999998   
+F0             1.1945322148144875659     1  0.00000000062697598350   
+F1             -2.385573503481939948e-14 1  9.9829024535127627628e-19
+PEPOCH         52187                       
+POSEPOCH       52187                       
+DMEPOCH        52187                       
+DM             422                          3.00000000000000000000   
+START          58973.187311006831081       
+FINISH         60047.1367990611507         
+TZRMJD         59595.419687986084163       
+TZRFRQ         1038.9639950000000681    
+TZRSITE        meerkat   
+TRES           3799.372     
+EPHVER         2                           
+NE_SW          9.9610000000000000001       
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
+T2CMETHOD      TEMPO
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           230
+CHI2R          12.4133 227

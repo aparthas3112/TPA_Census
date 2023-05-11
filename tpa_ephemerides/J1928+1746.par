@@ -1,31 +1,30 @@
 PSRJ           J1928+1746
-RAJ            19:28:42.553                 0.00100000000000000000   
-DECJ           +17:46:29.62                 0.03000000000000000000   
-F0             14.548586762917164        1  0.00000052886708738319   
-F1             -2.7923510999999999999e-12    1.3e-18                  
-PEPOCH         58980                       
-POSEPOCH       58980                       
-DMEPOCH        58980                       
-DM             176.67999999999999999        0.05000000000000000000   
-START          58980.04671081959161        
-FINISH         58980.064161467782323       
-TRACK          1                           
-TZRMJD         58980.053700787754053       
-TZRFRQ         1287.4739999999999327    
+RAJ            19:28:42.5455069             4.2026289288901147292e-4932
+DECJ           +17:46:29.67257             
+F0             14.549341463540487816     1  0.00000000394818449690   
+F1             -2.7849791827237749934e-12 1  1.2810618977221920543e-17
+PEPOCH         55841.80092371557312        
+POSEPOCH       55841.80092371557312        
+DMEPOCH        55841.80092371557312        
+DM             176.9267262298514561        
+START          58881.467870955783685       
+FINISH         60047.186368350819592       
+TRACK          -2                          
+TZRMJD         59595.468854559350181       
+TZRFRQ         944.50511700000004112    
 TZRSITE        meerkat   
-TRES           38.007       
+TRES           3896.882     
 EPHVER         5                           
+NE_SW          4                           
 CLK            TT(TAI)
 MODE 1
-UNITS          TDB
+UNITS          TCB
 TIMEEPH        IF99
 DILATEFREQ     Y
 PLANET_SHAPIRO Y
-T2CMETHOD      TEMPO
-NE_SW          4.000
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE436
 NITS           1
-NTOA           6
-CHI2R          1.7369 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 13:17:02.644286
+NTOA           220
+CHI2R          825.4336 217

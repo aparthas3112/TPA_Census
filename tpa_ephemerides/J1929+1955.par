@@ -1,9 +1,29 @@
-PSRJ            J1929+1955                    
-RAJ             19:29:26.6                    1.000e-01 
-DECJ            +19:55:40                     1.000e+00 
-DM              281.3                         1.000e-01 
-PEPOCH          53351.16                      1.000e-02 
-F0              3.878490                      1.400e-05 
-F1              -3.84386E-14                  6.000e-19 
-EPHVER          2                             
-UNITS           TDB                           
+PSRJ           J1929+1955
+RAJ            19:29:17.5713                0.00060000000000000000   
+DECJ           +19:55:07.91                 0.01000000000000000000   
+F0             3.87849541355495665       1  0.00000000014581889572   
+F1             -3.8399211651835115162e-14 1  2.8713993352313553124e-19
+PEPOCH         53595                       
+POSEPOCH       53595                       
+DMEPOCH        53595                       
+DM             279.14820017069697125     1  0.01908133329180513107   
+START          58982.187642045718075       
+FINISH         60047.187907714575317       
+TZRMJD         59595.470378107509394       
+TZRFRQ         1136.3134589999999662    
+TZRSITE        meerkat   
+TRES           345.003      
+EPHVER         2                           
+CLK            TT(TAI)
+MODE 1
+UNITS          TDB
+TIMEEPH        FB90
+DILATEFREQ     N
+PLANET_SHAPIRO N
+T2CMETHOD      TEMPO
+NE_SW          9.961
+CORRECT_TROPOSPHERE  N
+EPHEM          DE405
+NITS           1
+NTOA           230
+CHI2R          3.6661 226
