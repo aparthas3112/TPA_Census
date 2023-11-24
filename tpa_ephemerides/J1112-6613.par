@@ -1,29 +1,37 @@
 PSRJ           J1112-6613
-RAJ            11:12:38.414                 0.00400000000000000000   
-DECJ           -66:13:04.663                0.00200000000000000000   
-F0             2.9920963168634708194     
-F1             -7.38499e-15
-PEPOCH         57600                       
-POSEPOCH       57600                       
-DMEPOCH        57600                       
-START          58755.194559422521213       
-FINISH         59337.888925512389871       
-TZRMJD         59041.516887368723896       
-TZRFRQ         809.10099999999999909    
+RAJ            11:12:38.4528809            
+DECJ           -66:13:04.93421             
+F0             2.9920951224377112254     1  0.00000000000210927556   
+F1             -7.3665392526044712217e-15 1  1.5410060160471052838e-19
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             248.9403346704168897        
+START          58755.194573134015432       
+FINISH         60045.941691919783111       
+TRACK          -2                          
+TZRMJD         59399.71884321094268        
+TZRFRQ         1520.38708900000006      
 TZRSITE        meerkat   
-TRES           669.177      
+TRES           643.253      
 EPHVER         5                           
-CLK            TT(TAI)
+NE_SW          4                           
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
+UNITS          TCB
 TIMEEPH        IF99
 DILATEFREQ     Y
 PLANET_SHAPIRO Y
 T2CMETHOD      IAU2000B
-NE_SW          4.000
 CORRECT_TROPOSPHERE  Y
-EPHEM          DE405
+EPHEM          DE440
 NITS           1
-NTOA           18
-CHI2R          2089.7177 16
-DM 249.10
+NTOA           616
+CHI2R          119.2520 613
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

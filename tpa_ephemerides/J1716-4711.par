@@ -1,29 +1,37 @@
 PSRJ           J1716-4711
-RAJ            17:16:01.109                 0.00700000000000000000   
-DECJ           -47:11:00.9                  0.30000000000000000001   
-F0             1.7991299607981852256     
-F1             -2.69600000000e-15
-PEPOCH         55185                       
-POSEPOCH       55185                       
-DMEPOCH        55185                       
-DM             287.06                       0.06000000000000000000   
-START          58623.996106288551989       
-FINISH         59268.292644331019567       
-TZRMJD         58976.916123086194563       
-TZRFRQ         1289.8669999999999618    
+RAJ            17:16:01.1003925            
+DECJ           -47:11:00.98460             
+F0             1.7991289510573666176     1  4.5553415811055139621e-13
+F1             -2.6963698827263590298e-15 1  2.4792862045265549055e-20
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             287.05999554907795479        0.05999999906968813937   
+START          58623.996109636304485        2.5215773573340701297e-4932
+FINISH         60047.095114263011041       
+TRACK          -2                          
+TZRMJD         59268.292627486165561       
+TZRFRQ         1137.4830680000000029    
 TZRSITE        meerkat   
-TRES           119.563      
-EPHVER         2                           
-CLK            TT(TAI)
+TRES           129.061      
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-NE_SW          9.961
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           16
-CHI2R          15.0382 14
+NTOA           232
+CHI2R          1.4031 229
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

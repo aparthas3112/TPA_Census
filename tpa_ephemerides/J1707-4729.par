@@ -1,29 +1,37 @@
 PSRJ           J1707-4729
-RAJ            17:07:15.547                 0.00700000000000000000   
-DECJ           -47:29:34.5                  0.30000000000000000001   
-F0             3.7527164400000000001        0.00000000050000000000   
-F1             -2.1974000000000000001e-14    8.9999999999999999999e-18
-PEPOCH         51496                       
-POSEPOCH       51496                       
-DMEPOCH        51496                       
-DM             268.29999999999999999        0.40000000000000000001   
-START          58787.679395983544758       
-FINISH         59268.295327416968075       
-TZRMJD         59019.968560423768423       
-TZRFRQ         1286.2190000000000509    
+RAJ            17:07:15.5470000             0.00700000000000000000   
+DECJ           -47:29:34.50000              0.30000000000000000001   
+F0             3.7527013756590945368     1  0.00000000003933039501   
+F1             -2.1976686361706938226e-14 1  1.1224112268700528836e-18
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             268.29999583995546319        0.39999999379792092915   
+START          58787.679400647305933       
+FINISH         59268.295328667191121       
+TRACK          -2                          
+TZRMJD         59019.968558353794538       
+TZRFRQ         1041.1608120000000781    
 TZRSITE        meerkat   
-TRES           474.882      
-EPHVER         2                           
-CLK            TT(TAI)
+TRES           230.804      
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-NE_SW          9.961
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           13
-CHI2R          190.7657 12
+NTOA           95
+CHI2R          4.6737 92
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

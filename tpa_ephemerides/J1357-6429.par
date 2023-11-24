@@ -1,32 +1,37 @@
 PSRJ           J1357-6429
-RAJ            13:57:02.43                  0.02000000000000000000   
-DECJ           -64:29:30.2                  0.10000000000000000000   
-F0             6.0134877285511967823     1  0.00001943847100576605   
-F1             -1.24575447968e-11           4.9999999999999999999e-17
-F2             1.158e-21                    1.6e-23                  
-PEPOCH         58882                       
-POSEPOCH       58882                       
-DMEPOCH        58882                       
-DM             128.5                        0.69999999999999999999   
-START          58882.990969785432302       
-FINISH         58882.992728849466605       
-TRACK          1                           
-TZRMJD         58882.992032164169899       
-TZRFRQ         1285.1539999999999964    
+RAJ            13:57:02.4641018             0.06622608298862892643   
+DECJ           -64:29:30.35370              0.47739413039795128917   
+F0             6.0129388997722560089     1  0.00000000543226648515   
+F1             -1.2976849655250547013e-11 1  4.6361374818821376372e-16
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             128.49999800758209849       
+START          58856.420545566924144       
+FINISH         59967.988753108490432       
+TRACK          -2                          
+TZRMJD         59264.902268228754654       
+TZRFRQ         1332.0664059999999154    
 TZRSITE        meerkat   
-TRES           328.292      
+TRES           382521.362   
 EPHVER         5                           
-CLK            TT(TAI)
+NE_SW          9.9610000000000000001       
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
+UNITS          TCB
 TIMEEPH        IF99
 DILATEFREQ     Y
 PLANET_SHAPIRO Y
-T2CMETHOD      TEMPO
-NE_SW          4.000
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           6
-CHI2R          1.7371 4
-## AUTO GENERATED MeerTIME TPA 2020-06-12 11:32:51.519862
+NTOA           195
+CHI2R          475351.3256 192
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

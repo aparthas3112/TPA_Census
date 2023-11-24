@@ -1,31 +1,39 @@
 PSRJ           J1557-4258
-RAJ            15:57:00.2580                0.00090000000000000000   
-DECJ           -42:58:12.66                 0.02000000000000000000   
-F0             3.0377883464811313869     
-F1             -3.046400000e-15
-PEPOCH         48017                       
-POSEPOCH       48017                       
-DMEPOCH        48017                       
-PMRA           -3                           1.00000000000000000000   
-PMDEC          10                           2.00000000000000000000   
-START          58787.255610027351821       
-FINISH         59268.17453066745977        
-TZRMJD         59019.858730997791561       
-TZRFRQ         1285.7449999999998909    
+RAJ             15:57:00.2494816            0.00090000000000000000   
+DECJ           -42:58:12.34835              0.02000000000000000000   
+F0             3.0377853032452115912     1  0.00000000000591237769   
+F1             -3.0471830227115216646e-15 1  1.6644476074444725797e-19
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             144.3795213584649461        
+PMRA           -2.9999999534844069685       0.99999998449480232283   
+PMDEC          9.9999998449480232282        1.99999996898960464566   
+START          58787.255635127188569       
+FINISH         59268.174528103449727       
+TRACK          -2                          
+TZRMJD         59019.85873217546273        
+TZRFRQ         1136.0477869999999712    
 TZRSITE        meerkat   
-TRES           42.207       
-EPHVER         2                           
-CLK            TT(TAI)
+TRES           39.371       
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-NE_SW          9.961
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           13
-CHI2R          87.4017 11
-DM 144.379523597098
+NTOA           96
+CHI2R          6.4719 93
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

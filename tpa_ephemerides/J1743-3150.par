@@ -1,30 +1,37 @@
 PSRJ           J1743-3150
 ELONG          266.4819399999999999795186056   
 ELAT           -8.4500999999999999992214561   
-F0             0.41415145966639559815    
-F1             -2.069345363422e-14
-F2             -2.4e-26                
-PEPOCH         50241                       
-POSEPOCH       50241                       
-DMEPOCH        50241                       
-START          58788.542054769501423       
-FINISH         59275.098408059248328       
-TZRMJD         59025.873679042034517       
-TZRFRQ         1285.2000000000000455    
+F0             0.41413507026942427002    1  0.00000000000126409021   
+F1             -2.0710908470733744925e-14 1  6.3759254432017916009e-20
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             192.10699702134298983       
+START          58788.542080585995858       
+FINISH         60047.150059233058609       
+TRACK          -2                          
+TZRMJD         59275.098412849660253       
+TZRFRQ         943.14702799999997751    
 TZRSITE        meerkat   
-TRES           349.068      
-EPHVER         2                           
+TRES           1020.189     
+EPHVER         5                           
 NE_SW          9.9610000000000000001       
-CLK            TT(TAI)
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           15
-CHI2R          101.3602 12
-DM 192.107
+NTOA           224
+CHI2R          51.8500 221
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

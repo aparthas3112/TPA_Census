@@ -1,29 +1,37 @@
 PSRJ           J1739-2903
 RAJ            17:39:34.292                 0.00200000000000000000   
 DECJ           -29:03:02.2                  0.20000000000000000000   
-F0             3.0970637393651868495     
-F1             -7.5555706564510066982e-14
-F2             6.2999999999999999998e-26 
-PEPOCH         55385                       
-POSEPOCH       55385                       
-DMEPOCH        55000                       
-START          58441.315098515562642       
-FINISH         59035.666638566569851       
-TZRMJD         58744.464545019246906       
-TZRFRQ         1408.0749510000000555    
-TZRSITE        pks   
-TRES           67.825       
+F0             3.097037533079185904      1  0.00000000000725975154   
+F1             -7.5537482222656957159e-14 1  1.6138384012413131872e-19
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             138.663859212571            
+START          58576.116468517981147       
+FINISH         59275.089872364898419       
+TRACK          -2                          
+TZRMJD         58977.019666705038837       
+TZRFRQ         1041.1234119999999166    
+TZRSITE        meerkat   
+TRES           77.004       
 EPHVER         5                           
-CLK            TT(TAI)
+NE_SW          4                           
+CLK            TT(BIPM2019)
+MODE 1
 UNITS          TCB
 TIMEEPH        IF99
 DILATEFREQ     Y
 PLANET_SHAPIRO Y
 T2CMETHOD      IAU2000B
-NE_SW          4.000
 CORRECT_TROPOSPHERE  Y
-EPHEM          DE405
+EPHEM          DE440
 NITS           1
-NTOA           19
-CHI2R          0.0000 16
-DM 138.663859212571
+NTOA           120
+CHI2R          8.0115 117
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

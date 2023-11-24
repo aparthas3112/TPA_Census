@@ -1,30 +1,37 @@
 PSRJ           J0450-1248
-RAJ            04:50:08.781                 0.00300000000000000000   
-DECJ           -12:48:07.10                 0.09000000000000000000   
-F0             2.2830312708098937729     1  0.00000000001607045525   
-F1             -5.3502999999999999998e-16    3e-20                    
-F2             -9.2999999999999999999e-28    4.9999999999999999998e-28
-PEPOCH         49338                       
-POSEPOCH       49338                       
-DMEPOCH        49338                       
-START          58755.098450080309224       
-FINISH         59264.725458350096083       
-TZRMJD         59013.478172905279102       
-TZRFRQ         1277.5229999999999109    
+RAJ            04:50:08.8077155            
+DECJ           -12:48:07.35733             
+F0             2.2830307699402796015     1  9.1667029943256615836e-13
+F1             -5.3419896203510073465e-16 1  6.5453645946061211942e-20
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             37.273595896626818522       
+START          58755.098454749251605       
+FINISH         60033.754637804775456       
+TRACK          -2                          
+TZRMJD         59264.725454224760846       
+TZRFRQ         944.36134800000002087    
 TZRSITE        meerkat   
-TRES           371.534      
-EPHVER         2                           
-CLK            TT(TAI)
+TRES           211.706      
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-NE_SW          9.961
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           14
-CHI2R          91.3995 12
-DM 37.2735964745613
+NTOA           224
+CHI2R          2.4530 221
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

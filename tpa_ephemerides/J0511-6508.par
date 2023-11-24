@@ -1,29 +1,37 @@
 PSRJ           J0511-6508
-RAJ            05:11:56.50                  0.02000000000000000000   
-DECJ           -65:08:36.5                  0.30000000000000000001   
-F0             3.1049938671600053625     0  0.00000000002395569790   
-F1             -1.99e-15                    4e-17                    
-PEPOCH         52409                       
-POSEPOCH       52409                       
-DMEPOCH        52409                       
-DM             25.66                        0.08000000000000000000   
-START          58783.929600366630225       
-FINISH         59264.725865584867908       
-TZRMJD         59013.477265039248749       
-TZRFRQ         1272.4420000000000073    
+RAJ            05:11:56.5000000             0.02000000000000000000   
+DECJ           -65:08:36.50000              0.30000000000000000001   
+F0             3.1049926168072409522     1  0.00000000000427419447   
+F1             -1.9955428497459719723e-15 1  2.8838633005160518372e-19
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             25.659999602136627605        0.07999999875958418583   
+START          58783.929611349614508       
+FINISH         60033.763851581941392       
+TRACK          -2                          
+TZRMJD         59264.725855055345342       
+TZRFRQ         943.6069439999999986     
 TZRSITE        meerkat   
-TRES           380.942      
-EPHVER         2                           
-CLK            TT(TAI)
+TRES           591.362      
+EPHVER         5                           
+NE_SW          9.9610000000000000001       
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-NE_SW          9.961
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           14
-CHI2R          7.3263 12
+NTOA           184
+CHI2R          2.1603 181
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0

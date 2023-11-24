@@ -1,29 +1,37 @@
 PSRJ           J1043-6116
-RAJ            10:43:55.261                 0.00200000000000000000   
-DECJ           -61:16:50.76                 0.02000000000000000000   
-F0             3.4649400576238715852     
-F1             -1.2498446612e-13 
-PEPOCH         55358                       
-POSEPOCH       55358                       
-DMEPOCH        55000                       
-START          58810.461090011458737       
-FINISH         59264.82008085610223        
-TZRMJD         59041.507266764615085       
-TZRFRQ         824.56899999999995998    
+RAJ            10:43:55.2610000             0.00200000000000000000   
+DECJ           -61:16:50.76000              0.02000000000000000000   
+F0             3.4648963557290080317     1  0.00000000001304657938   
+F1             -1.2498439909913351007e-13 1  3.8507850123979092729e-19
+F2             0                           
+PEPOCH         59400                       
+POSEPOCH       59400                       
+DMEPOCH        59400                       
+DM             448.75235497794292008       
+START          58810.46111191217615        
+FINISH         59264.820082072596666       
+TRACK          -2                          
+TZRMJD         59013.574763227880972       
+TZRFRQ         1636.6639350000000377    
 TZRSITE        meerkat   
-TRES           59.754       
-EPHVER         2                           
+TRES           77.822       
+EPHVER         5                           
 NE_SW          9.9610000000000000001       
-CLK            TT(TAI)
+CLK            TT(BIPM2019)
 MODE 1
-UNITS          TDB
-TIMEEPH        FB90
-DILATEFREQ     N
-PLANET_SHAPIRO N
-T2CMETHOD      TEMPO
-CORRECT_TROPOSPHERE  N
-EPHEM          DE405
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE440
 NITS           1
-NTOA           13
-CHI2R          38.9908 10
-DM 448.752361935937
+NTOA           96
+CHI2R          6.3732 93
+JUMP -MJD_58550_58690_1K -1 -0.000306243 0
+JUMP -MJD_58526.21089_1K -1 -2.4628e-05 0
+JUMP -MJD_58550.14921_1K -1 2.463e-05 0
+JUMP -MJD_58550.14921B_1K -1 -1.196e-06 0
+JUMP -MJD_58557.14847_1K -1 -4.785e-06 0
+JUMP -MJD_58575.9591_1K -1 5.981308411e-07 0
