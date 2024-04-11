@@ -15,6 +15,6 @@ TASC            53000.4952524                 2.000e-07
 EPS1            1.36E-6                       4.000e-08 
 EPS2            -0.32E-6                      3.000e-08 
 CLK             TT(BIPM2013)                  
-EPHEM           DE412                         
+EPHEM           DE421                         
 EPHVER          2                             
 UNITS           TDB                           
