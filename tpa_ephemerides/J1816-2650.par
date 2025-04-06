@@ -1,0 +1,15 @@
+PSRJ           J1816-2650
+RAJ            18:16:35.399
+DECJ           -26:49:53
+F0             1.6866671925828833886
+F1             -1.896782697029716608e-16
+PEPOCH         57600
+POSEPOCH       57600
+DMEPOCH        57600
+DM             128.12                      
+TZRMJD         59371.572630206906084
+TZRFRQ         1411.7080000000000837
+TZRSITE        pks
+EPHVER         5
+UNITS          TCB
+EPHEM          DE405
