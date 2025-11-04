@@ -1,40 +1,12 @@
 PSRJ            J1544-0713                    
-NAME            J1544-0713                    
 RAJ             15:44:23.527                  2.000e-03 
 DECJ            -07:13:59.02                  1.200e-01 
-ELONG           235.51                        
-ELAT            12.24                         
 DM              30.73                         1.200e-01 
 PEPOCH          57317                         
 F0              2.065561742743                1.300e-11 
 F1              -4.8495e-15                   3.000e-19 
-P0              0.484129803194                4.000e-12 
-P1              1.13663E-15                   8.000e-20 
-DIST_DM         2.633                         
-DIST_DM1        1.270                         
-SURVEY          pks_superb                    
-S1400           0.39                          5.000e-02 
-W50             6.1                           4.000e-01 
 POSEPOCH        57317                         
 DMEPOCH         57317                         
-AGE             6.75e+06                      
 RM              21                            1.400e+01 
-DATE            2020                          
-DIST            2.633                         
-DIST1           1.270                         
-PMERR_PA        -28.877                       
-EDOTD2          5.7e+31                       
-R_LUM14         2.70                          
-BSURF           7.51e+11                      
-B_LC            6.20e+01                      
-EDOT            4.0e+32                       
-RAJD            236.098029                    8.333e-06 
-DECJD           -7.23306                      3.333e-05 
-OSURVEY         010000000000                  
-DMSINB          18.00                         
-GL              359.916                       
-GB              35.859                        
-XX              -0.003                        
-YY              6.366                         
-ZZ              1.542                         
 UNITS           TCB                           
+EPHVER 5
